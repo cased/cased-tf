@@ -92,7 +92,7 @@ cased-tf analyze --help
 
 ### Environment Variables
 
-- `CASED_API_KEY`: Your Cased API key (required)
+- `CASED_API_KEY`: Your Cased API key (required unless passed as argument)
 - `CASED_API_URL`: Custom API URL (optional, defaults to https://app.cased.com)
 
 ## Config File

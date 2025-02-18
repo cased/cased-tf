@@ -1,0 +1,8 @@
+# Local development configuration
+api_url: http://localhost:8000
+project: cased-test/infra
+environment: prod
+
+# Optional settings
+# api_key: your-api-key  # Uncomment and set if needed
+# working_dir: /path/to/terraform  # Uncomment and set if needed
